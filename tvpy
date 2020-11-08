@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal 13 de Paraguay (Trece)">
+    <display-name lang="es">ELTRECE</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_paraguay-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 9 Noticias (Paraguay)">
+    <display-name lang="es">C9N</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_paraguay-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal beIN Sport en Español">
+    <display-name lang="es">BEIN SPORT N</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/being_sports_en_espanol-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinecanal (Argentina)">
+    <display-name lang="es">CINECANAL</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinemax (Argentina)">
+    <display-name lang="es">CINEMAX</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal CNN en Español">
+    <display-name lang="es">CNN ESPAÑOL</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Channel (Argentina)">
+    <display-name lang="es">DISCOVERY CHANNEL</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Turbo (Latinoamérica)">
+    <display-name lang="es">DISCOVERY TURBO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN (Argentina)">
+    <display-name lang="es">ESPN</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_sur-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN 2 (Argentina)">
+    <display-name lang="es">ESPN 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_sur-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN 3 (Argentina)">
+    <display-name lang="es">ESPN 3</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_sur-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN Extra (Latinoamérica)">
+    <display-name lang="es">ESPN EXTRA</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Channel (Argentina)">
+    <display-name lang="es">FOX</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Premium Action (Este)">
+    <display-name lang="es">FOX ACTION</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Sports (Argentina)">
+    <display-name lang="es">FOX SPORTS</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Sports 2 (Argentina)">
+    <display-name lang="es">FOX SPORTS 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Sports 3 (Argentina)">
+    <display-name lang="es">FOX SPORT 3</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Sports Premium (Argentina)">
+    <display-name lang="es">FOX SPORT PREMIUM</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO (Argentina)">
+    <display-name lang="es">HBO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO 2 Latinoamérica">
+    <display-name lang="es">HBO 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History (Argentina)">
+    <display-name lang="es">HISTORY</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History 2 (Argentina)">
+    <display-name lang="es">HISTORY 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Movistar LaLiga">
+    <display-name lang="es">MOVISTAR LA LIGA</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Noticias PY (Paraguay)">
+    <display-name lang="es">NOTICIAS PY</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Paravisión">
+    <display-name lang="es">PARAVISION</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Pasiones (Latinoamérica)">
+    <display-name lang="es">PASIONES</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal RT en Español">
+    <display-name lang="es">RUSIA TODAY ESPAÑOL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal SNT (Paraguay)">
+    <display-name lang="es">SNT</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Space (Argentina)">
+    <display-name lang="es">SPACE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Studio Universal (Argentina)">
+    <display-name lang="es">UNIVERSAL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telefuturo">
+    <display-name lang="es">TELEFUTURO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Televisión Pública (Argentina)">
+    <display-name lang="es">TV PUBLICA ARG</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT (Argentina)">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT Sports">
+    <display-name lang="es">TNT SPORT</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Todo Noticias">
+    <display-name lang="es">TN NOTICIAS </display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Unicanal">
+    <display-name lang="es">UNICANAL</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Warner TV (Argentina)">
+    <display-name lang="es">WARNER BROS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201108064500 -0600" stop="20201108074500 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">Misa de los Capuchinos</title>
+  </programme>
+  <programme start="20201108074500 -0600" stop="20201108100000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">Tv al aire</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108110000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">Más que Vencedores</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108120000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">Mucho gusto</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108123000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">Amigo camionero</title>
+  </programme>
+  <programme start="20201108123000 -0600" stop="20201108130000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">Máquinas y Construcciones</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">Descubriendo el pais</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108160000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">Ciclo de Cultura y Arte</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108170000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">La Hora de las Compras</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108180000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">En vida</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108190000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">El saber va contigo</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108210000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">El festival del abuelo</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108230000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">Cara o Cruz</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109000000 -0600" channel="Canal 13 de Paraguay (Trece)">
+    <title lang="es">Farra TV</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108070000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Kay'uhape</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108080000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Misa de Caacupé</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108103000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Pulso Urbano</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108110000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Naturlider</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108120000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Pehechamina</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108123000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">ÑANDEMBAEVA</title>
+  </programme>
+  <programme start="20201108123000 -0600" stop="20201108130000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Puntos de Vista</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108160000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Primera Edición</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108170000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Virales</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108200000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Noticias Segunda Edición</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108203000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">C9N al natural</title>
+  </programme>
+  <programme start="20201108203000 -0600" stop="20201108213000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme start="20201108213000 -0600" stop="20201108223000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Celebridades</title>
+  </programme>
+  <programme start="20201108223000 -0600" stop="20201108230000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Emergencias 132</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109000000 -0600" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Virales</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108040000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Atlético de Madrid vs. Cádiz</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108050000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108053000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108053000 -0600" stop="20201108060000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108063000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108063000 -0600" stop="20201108070000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108073000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108073000 -0600" stop="20201108080000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108083000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108090000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108093000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108093000 -0600" stop="20201108100000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108103000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108113000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201108113000 -0600" stop="20201108120000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108120500 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201108120500 -0600" stop="20201108141500 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Real Sociedad vs. Granada</title>
+  </programme>
+  <programme start="20201108141500 -0600" stop="20201108142000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201108142000 -0600" stop="20201108163000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Valladolid vs. Athletic Club</title>
+  </programme>
+  <programme start="20201108163000 -0600" stop="20201108165000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201108165000 -0600" stop="20201108190000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Valencia vs. Real Madrid</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108200000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108203000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201108203000 -0600" stop="20201108223000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">Sivasspor vs. Galatasaray</title>
+  </programme>
+  <programme start="20201108223000 -0600" stop="20201108233000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201108233000 -0600" stop="20201109000000 -0600" channel="Canal beIN Sport en Español">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201108015500 -0600" stop="20201108035700 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Sangre, sudor y gloria</title>
+  </programme>
+  <programme start="20201108035700 -0600" stop="20201108054000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Operación Overlord</title>
+  </programme>
+  <programme start="20201108054000 -0600" stop="20201108055700 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201108055700 -0600" stop="20201108070000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108073000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108073000 -0600" stop="20201108080000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108083000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108090000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108093000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108093000 -0600" stop="20201108100000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108103000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108110000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108110400 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201108110400 -0600" stop="20201108111800 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201108111800 -0600" stop="20201108130200 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Pequeños Invasores</title>
+  </programme>
+  <programme start="20201108130200 -0600" stop="20201108144900 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Paul Blart: Héroe de centro comercial</title>
+  </programme>
+  <programme start="20201108144900 -0600" stop="20201108164300 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Imparable</title>
+  </programme>
+  <programme start="20201108164300 -0600" stop="20201108183000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Shrek para siempre</title>
+  </programme>
+  <programme start="20201108183000 -0600" stop="20201108201500 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Mi Villano Favorito 3</title>
+  </programme>
+  <programme start="20201108201500 -0600" stop="20201108220000 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Maestras del Engaño</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201109001800 -0600" channel="Canal Cinecanal (Argentina)">
+    <title lang="es">Rocketman (2019)</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108040300 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Hijo del crímen</title>
+  </programme>
+  <programme start="20201108040300 -0600" stop="20201108055900 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Linea de fuego</title>
+  </programme>
+  <programme start="20201108055900 -0600" stop="20201108080200 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">La venganza de la casa del lago</title>
+  </programme>
+  <programme start="20201108080200 -0600" stop="20201108092500 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Wolf Man, The</title>
+  </programme>
+  <programme start="20201108092500 -0600" stop="20201108111600 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Vientos de cambio</title>
+  </programme>
+  <programme start="20201108111600 -0600" stop="20201108125900 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Locos por las Nueces 2</title>
+  </programme>
+  <programme start="20201108125900 -0600" stop="20201108144100 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Mi papá es un gato</title>
+  </programme>
+  <programme start="20201108144100 -0600" stop="20201108164500 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Descendientes 3</title>
+  </programme>
+  <programme start="20201108164500 -0600" stop="20201108192800 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Karate kid</title>
+  </programme>
+  <programme start="20201108192800 -0600" stop="20201108211100 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Como perros y gatos</title>
+  </programme>
+  <programme start="20201108211100 -0600" stop="20201108231600 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Notas perfectas</title>
+  </programme>
+  <programme start="20201108231600 -0600" stop="20201109020000 -0600" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Karate kid</title>
+  </programme>
+  <programme start="20201108010000 -0600" stop="20201108020000 -0600" channel="Canal CNN en Español">
+    <title lang="es">En Dialogo con Longobardi</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108030000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Mirador Mundial</title>
+  </programme>
+  <programme start="20201108030000 -0600" stop="20201108040000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Documentales CNN or Docufilms</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108050000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Oppenheimer presenta</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108060000 -0600" channel="Canal CNN en Español">
+    <title lang="es">En Dialogo con Longobardi</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108063000 -0600" channel="Canal CNN en Español">
+    <title lang="es">GloboEconomía</title>
+  </programme>
+  <programme start="20201108063000 -0600" stop="20201108070000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Clix</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108080000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Vive la salud</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108090000 -0600" channel="Canal CNN en Español">
+    <title lang="es">En Dialogo con Longobardi</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Oppenheimer presenta</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108103000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Nuestro Mundo</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108110000 -0600" channel="Canal CNN en Español">
+    <title lang="es">GloboEconomía</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108120000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Choque de Opiniones</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108130000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Vive la salud</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="Canal CNN en Español">
+    <title lang="es">En Dialogo con Longobardi</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108143000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Nuestro Mundo</title>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108150000 -0600" channel="Canal CNN en Español">
+    <title lang="es">GloboEconomía</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108160000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Choque de Opiniones</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108163000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Clix</title>
+  </programme>
+  <programme start="20201108163000 -0600" stop="20201108170000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Triunfadores del Deporte</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108180000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Mercado Sur</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108190000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Documentales CNN or Docufilms</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108193000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Nuestro Mundo</title>
+  </programme>
+  <programme start="20201108193000 -0600" stop="20201108200000 -0600" channel="Canal CNN en Español">
+    <title lang="es">GloboEconomía</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108210000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Mirador Mundial</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Documentales CNN or Docufilms</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108230000 -0600" channel="Canal CNN en Español">
+    <title lang="es">Oppenheimer presenta</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109000000 -0600" channel="Canal CNN en Español">
+    <title lang="es">En Dialogo con Longobardi</title>
+  </programme>
+  <programme start="20201108004900 -0600" stop="20201108014100 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Autos únicos con Will Castro</title>
+  </programme>
+  <programme start="20201108014100 -0600" stop="20201108023500 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Duelo sobre ruedas</title>
+  </programme>
+  <programme start="20201108023500 -0600" stop="20201108030000 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Las Mecánicas</title>
+  </programme>
+  <programme start="20201108030000 -0600" stop="20201108034900 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20201108034900 -0600" stop="20201108043900 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20201108043900 -0600" stop="20201108061500 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Barrett-Jackson</title>
+  </programme>
+  <programme start="20201108061500 -0600" stop="20201108070500 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Misión Avión</title>
+  </programme>
+  <programme start="20201108070500 -0600" stop="20201108080000 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Top Gear</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108082400 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Las Mecánicas</title>
+  </programme>
+  <programme start="20201108082400 -0600" stop="20201108090900 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20201108090900 -0600" stop="20201108100100 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Autos renovados</title>
+  </programme>
+  <programme start="20201108100100 -0600" stop="20201108105100 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Alto Octanaje en Las Vegas</title>
+  </programme>
+  <programme start="20201108105100 -0600" stop="20201108114100 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Autos únicos con Will Castro</title>
+  </programme>
+  <programme start="20201108114100 -0600" stop="20201108123100 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Autos únicos con Will Castro</title>
+  </programme>
+  <programme start="20201108123100 -0600" stop="20201108132800 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Top Gear</title>
+  </programme>
+  <programme start="20201108132800 -0600" stop="20201108135400 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Full Custom Garage</title>
+  </programme>
+  <programme start="20201108135400 -0600" stop="20201108142000 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Full Custom Garage</title>
+  </programme>
+  <programme start="20201108142000 -0600" stop="20201108151000 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Misfit Garage</title>
+  </programme>
+  <programme start="20201108151000 -0600" stop="20201108160300 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Chatarra de Oro</title>
+  </programme>
+  <programme start="20201108160300 -0600" stop="20201108165700 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Los Autos Más Veloces del Sur</title>
+  </programme>
+  <programme start="20201108165700 -0600" stop="20201108174800 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Autos únicos con Will Castro</title>
+  </programme>
+  <programme start="20201108174800 -0600" stop="20201108181400 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Las Mecánicas</title>
+  </programme>
+  <programme start="20201108181400 -0600" stop="20201108184000 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Las Mecánicas</title>
+  </programme>
+  <programme start="20201108184000 -0600" stop="20201108193400 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20201108193400 -0600" stop="20201108195900 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Maestros de la Mecánica</title>
+  </programme>
+  <programme start="20201108195900 -0600" stop="20201108202500 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Las Mecánicas</title>
+  </programme>
+  <programme start="20201108202500 -0600" stop="20201108211700 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20201108211700 -0600" stop="20201108214300 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Last Stop Garage</title>
+  </programme>
+  <programme start="20201108214300 -0600" stop="20201108221000 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Last Stop Garage</title>
+  </programme>
+  <programme start="20201108221000 -0600" stop="20201108223600 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Last Stop Garage</title>
+  </programme>
+  <programme start="20201108223600 -0600" stop="20201108230300 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Last Stop Garage</title>
+  </programme>
+  <programme start="20201108230300 -0600" stop="20201108235600 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Autos renovados</title>
+  </programme>
+  <programme start="20201108235600 -0600" stop="20201109004800 -0600" channel="Canal Discovery Turbo (Latinoamérica)">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20201108003000 -0600" stop="20201108023000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20201108023000 -0600" stop="20201108040000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108050000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">ESPN Compact</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108060000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108064500 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">Simplemente Futbol</title>
+  </programme>
+  <programme start="20201108064500 -0600" stop="20201108110000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108130000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108135000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201108135000 -0600" stop="20201108160000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">Fútbol italiano Serie A</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108163000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201108163000 -0600" stop="20201108184500 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">Fútbol italiano Serie A</title>
+  </programme>
+  <programme start="20201108184500 -0600" stop="20201108210000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">Tenis</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201109013000 -0600" channel="Canal ESPN (Argentina)">
+    <title lang="es">Fútbol Americano de la NFL</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108030000 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20201108030000 -0600" stop="20201108035700 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20201108035700 -0600" stop="20201108045500 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20201108045500 -0600" stop="20201108052500 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201108052500 -0600" stop="20201108055500 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20201108055500 -0600" stop="20201108062500 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">UEFA Champions League Magazine</title>
+  </programme>
+  <programme start="20201108062500 -0600" stop="20201108072200 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20201108072200 -0600" stop="20201108082000 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20201108082000 -0600" stop="20201108103000 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">Lazio vs. Juventus En Vivo</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108105000 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">SportsCenter En Vivo</title>
+  </programme>
+  <programme start="20201108105000 -0600" stop="20201108130000 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">Atalanta vs. Inter En Vivo</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108153000 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">Manchester City vs. Liverpool En Vivo</title>
+  </programme>
+  <programme start="20201108153000 -0600" stop="20201108165000 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">SportsCenter En Vivo</title>
+  </programme>
+  <programme start="20201108165000 -0600" stop="20201108190000 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">Valencia vs. Real Madrid En Vivo</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108230000 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">SportsCenter Sur En Vivo</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109010000 -0600" channel="Canal ESPN 2 (Argentina)">
+    <title lang="es">ESPN F10 En Vivo</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108040000 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Ciclismo</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108052000 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201108052000 -0600" stop="20201108055000 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201108055000 -0600" stop="20201108065000 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Crystal Palace vs. Leeds United</title>
+  </programme>
+  <programme start="20201108065000 -0600" stop="20201108085000 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Atlético Madrid vs. Cádiz CF</title>
+  </programme>
+  <programme start="20201108085000 -0600" stop="20201108110000 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">West bromwich albion vs. tottenham hotspur</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108133000 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Ciclismo</title>
+  </programme>
+  <programme start="20201108133000 -0600" stop="20201108143000 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">ESPN Bike</title>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108153000 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Scrum</title>
+  </programme>
+  <programme start="20201108153000 -0600" stop="20201108160000 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108181500 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Arsenal vs. Aston Villa</title>
+  </programme>
+  <programme start="20201108181500 -0600" stop="20201108191500 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Crystal Palace vs. Leeds United</title>
+  </programme>
+  <programme start="20201108191500 -0600" stop="20201108201500 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Scrum</title>
+  </programme>
+  <programme start="20201108201500 -0600" stop="20201108204500 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201108204500 -0600" stop="20201108224500 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Fútbol de la MLS</title>
+  </programme>
+  <programme start="20201108224500 -0600" stop="20201109004500 -0600" channel="Canal ESPN 3 (Argentina)">
+    <title lang="es">Fútbol de la MLS</title>
+  </programme>
+  <programme start="20201108010000 -0600" stop="20201108030000 -0600" channel="Canal ESPN Extra (Latinoamérica)">
+    <title lang="es">Australia vs. Nueva Zelanda</title>
+  </programme>
+  <programme start="20201108030000 -0600" stop="20201108040000 -0600" channel="Canal ESPN Extra (Latinoamérica)">
+    <title lang="es">MotoGP Qualifying</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108060000 -0600" channel="Canal ESPN Extra (Latinoamérica)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108080000 -0600" channel="Canal ESPN Extra (Latinoamérica)">
+    <title lang="es">Rolex Paris Masters</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108100000 -0600" channel="Canal ESPN Extra (Latinoamérica)">
+    <title lang="es">Cycling</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108120000 -0600" channel="Canal ESPN Extra (Latinoamérica)">
+    <title lang="es">Australia vs. Nueva Zelanda</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108150000 -0600" channel="Canal ESPN Extra (Latinoamérica)">
+    <title lang="es">MotoGP</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108180000 -0600" channel="Canal ESPN Extra (Latinoamérica)">
+    <title lang="es">NFL Redzone</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108210000 -0600" channel="Canal ESPN Extra (Latinoamérica)">
+    <title lang="es">NFL Redzone</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="Canal ESPN Extra (Latinoamérica)">
+    <title lang="es">NFL Redzone</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201109000000 -0600" channel="Canal ESPN Extra (Latinoamérica)">
+    <title lang="es">Feyenoord vs. Groningen</title>
+  </programme>
+  <programme start="20201108001600 -0600" stop="20201108023200 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">El secreto de sus ojos</title>
+  </programme>
+  <programme start="20201108023200 -0600" stop="20201108042300 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">La Llegada (2016)</title>
+  </programme>
+  <programme start="20201108042300 -0600" stop="20201108054300 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Una loca película épica</title>
+  </programme>
+  <programme start="20201108054300 -0600" stop="20201108060400 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">The Cool Kids</title>
+  </programme>
+  <programme start="20201108060400 -0600" stop="20201108062600 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">The Cool Kids</title>
+  </programme>
+  <programme start="20201108062600 -0600" stop="20201108070000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">The Cool Kids</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108083900 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Hancock</title>
+  </programme>
+  <programme start="20201108083900 -0600" stop="20201108104300 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Fockers: La familia de mi esposo</title>
+  </programme>
+  <programme start="20201108104300 -0600" stop="20201108111400 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20201108111400 -0600" stop="20201108114400 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108114400 -0600" stop="20201108121300 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108121300 -0600" stop="20201108124300 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108124300 -0600" stop="20201108131200 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108131200 -0600" stop="20201108134100 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108134100 -0600" stop="20201108141200 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108141200 -0600" stop="20201108155700 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">4x4</title>
+  </programme>
+  <programme start="20201108155700 -0600" stop="20201108175900 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Titanes del Pacífico: La Insurrección</title>
+  </programme>
+  <programme start="20201108175900 -0600" stop="20201108200000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">El Robo del Siglo (2020)</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108203000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108203000 -0600" stop="20201108210000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108212700 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108212700 -0600" stop="20201108220000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108235700 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">La Odisea de los Giles</title>
+  </programme>
+  <programme start="20201108235700 -0600" stop="20201109002700 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108011400 -0600" stop="20201108030300 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">Red 2</title>
+  </programme>
+  <programme start="20201108030300 -0600" stop="20201108050000 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">Con Todos Los Honores</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108065400 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">RoboCop</title>
+  </programme>
+  <programme start="20201108065400 -0600" stop="20201108083200 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">Born to race</title>
+  </programme>
+  <programme start="20201108083200 -0600" stop="20201108102100 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">Nada es lo que parece</title>
+  </programme>
+  <programme start="20201108102100 -0600" stop="20201108124000 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20201108124000 -0600" stop="20201108144300 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">Sangre, sudor y gloria</title>
+  </programme>
+  <programme start="20201108144300 -0600" stop="20201108165000 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">El hombre de la máscara</title>
+  </programme>
+  <programme start="20201108165000 -0600" stop="20201108184600 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">Con Todos Los Honores</title>
+  </programme>
+  <programme start="20201108184600 -0600" stop="20201108201400 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">Búsqueda implacable 2</title>
+  </programme>
+  <programme start="20201108201400 -0600" stop="20201108220000 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">Búsqueda Implacable 3</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108235400 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">Sr y Sra Smith</title>
+  </programme>
+  <programme start="20201108235400 -0600" stop="20201109012500 -0600" channel="Canal Fox Premium Action (Este)">
+    <title lang="es">Papillon: La Gran Fuga</title>
+  </programme>
+  <programme start="20201108010000 -0600" stop="20201108020000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">WWE Main event</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108040000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">Guaraní vs. Tigre</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108070000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108090000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">Salzburg vs. Bayern Múnich</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108110000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108130000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">Gremio vs. Universidad Católica</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108150000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108170000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">Copa Libertadores</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108190000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">Copa Libertadores</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108210000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">La Era Bianchi</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">Final de Pelicula</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108230000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">Semifinal de Película</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109010000 -0600" channel="Canal Fox Sports 2 (Argentina)">
+    <title lang="es">Salzburg vs. Bayern Múnich</title>
+  </programme>
+  <programme start="20201108003000 -0600" stop="20201108013000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201108013000 -0600" stop="20201108020000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">GP1</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108023000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201108023000 -0600" stop="20201108033000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201108033000 -0600" stop="20201108043000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201108043000 -0600" stop="20201108073000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">NASCAR XFINITY Series</title>
+  </programme>
+  <programme start="20201108073000 -0600" stop="20201108080000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108090000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108110000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108140000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">NASCAR XFINITY Series</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108143000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108150000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">GP1</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108160000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108170000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108210000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">NASCAR Cup Series</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108213000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Rally on board</title>
+  </programme>
+  <programme start="20201108213000 -0600" stop="20201108220000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Motociclismo</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108223000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20201108223000 -0600" stop="20201108230000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109010000 -0600" channel="Canal Fox Sports 3 (Argentina)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201109000000 -0600" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20201108010000 -0600" stop="20201108025000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">Annabelle 3: Viene a Casa</title>
+  </programme>
+  <programme start="20201108025000 -0600" stop="20201108043000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">La Viuda</title>
+  </programme>
+  <programme start="20201108043000 -0600" stop="20201108060500 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">Negra Navidad</title>
+  </programme>
+  <programme start="20201108060500 -0600" stop="20201108073500 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">La huida</title>
+  </programme>
+  <programme start="20201108073500 -0600" stop="20201108090000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">Sweetheart</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108110500 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">Vencedor</title>
+  </programme>
+  <programme start="20201108110500 -0600" stop="20201108131500 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">Blanca Nieves y El Cazador</title>
+  </programme>
+  <programme start="20201108131500 -0600" stop="20201108150000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108160000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">La materia oscura</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108170000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">La materia oscura</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108180000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">La materia oscura</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108190000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">La materia oscura</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108200000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">La materia oscura</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108210000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">La materia oscura</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">La materia oscura</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108230000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">La materia oscura</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109014000 -0600" channel="Canal HBO 2 Latinoamérica">
+    <title lang="es">H. Potter y la piedra</title>
+  </programme>
+</tv>
