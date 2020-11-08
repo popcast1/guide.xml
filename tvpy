@@ -168,6 +168,91 @@
     <display-name lang="es">WARNER BROS</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal History (Argentina)">
+    <display-name lang="es">HISTORY</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History 2 (Argentina)">
+    <display-name lang="es">HISTORY 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Movistar LaLiga">
+    <display-name lang="es">MOVISTAR LA LIGA</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/movistar_laliga-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Noticias PY (Paraguay)">
+    <display-name lang="es">NOTICIAS PY</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/noticias_py-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Paravisión">
+    <display-name lang="es">PARAVISION</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Pasiones (Latinoamérica)">
+    <display-name lang="es">PASIONES</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal RT en Español">
+    <display-name lang="es">RUSIA TODAY ESPAÑOL</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/rt_en_espanol-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal SNT (Paraguay)">
+    <display-name lang="es">SNT</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/snt_paraguay-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Space (Argentina)">
+    <display-name lang="es">SPACE</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Studio Universal (Argentina)">
+    <display-name lang="es">UNIVERSAL</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telefuturo">
+    <display-name lang="es">TELEFUTURO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Televisión Pública (Argentina)">
+    <display-name lang="es">TV PUBLICA ARG</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT (Argentina)">
+    <display-name lang="es">TNT</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT Sports">
+    <display-name lang="es">TNT SPORT</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Todo Noticias">
+    <display-name lang="es">TN NOTICIAS </display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Unicanal">
+    <display-name lang="es">UNICANAL</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/unicanal-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Warner TV (Argentina)">
+    <display-name lang="es">WARNER BROS</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20201108064500 -0600" stop="20201108074500 -0600" channel="Canal 13 de Paraguay (Trece)">
     <title lang="es">Misa de los Capuchinos</title>
   </programme>
@@ -1052,5 +1137,875 @@
   </programme>
   <programme start="20201108230000 -0600" stop="20201109014000 -0600" channel="Canal HBO 2 Latinoamérica">
     <title lang="es">H. Potter y la piedra</title>
+  </programme>
+  <programme start="20201108004000 -0600" stop="20201108014000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Ideas Siniestras</title>
+  </programme>
+  <programme start="20201108014000 -0600" stop="20201108023500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Embajadores de la mafia</title>
+  </programme>
+  <programme start="20201108023500 -0600" stop="20201108032500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201108032500 -0600" stop="20201108050500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Calígula 1400 días de terror</title>
+  </programme>
+  <programme start="20201108050500 -0600" stop="20201108060500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Ideas Siniestras</title>
+  </programme>
+  <programme start="20201108060500 -0600" stop="20201108070500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Ideas Siniestras</title>
+  </programme>
+  <programme start="20201108070500 -0600" stop="20201108080000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Embajadores de la mafia</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108090000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108110000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108120000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Embajadores de la mafia</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108134000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Apocalipsis Neanderthal</title>
+  </programme>
+  <programme start="20201108134000 -0600" stop="20201108143000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Ideas Siniestras</title>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108152500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Ideas Siniestras</title>
+  </programme>
+  <programme start="20201108152500 -0600" stop="20201108161500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Inventos de la antigüedad</title>
+  </programme>
+  <programme start="20201108161500 -0600" stop="20201108171000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Embajadores de la mafia</title>
+  </programme>
+  <programme start="20201108171000 -0600" stop="20201108180500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Ideas Siniestras</title>
+  </programme>
+  <programme start="20201108180500 -0600" stop="20201108185500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Ideas Siniestras</title>
+  </programme>
+  <programme start="20201108185500 -0600" stop="20201108203500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Apocalipsis Neanderthal</title>
+  </programme>
+  <programme start="20201108203500 -0600" stop="20201108210000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Un genio entre nosotros</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108225500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">En busca del oro perdido</title>
+  </programme>
+  <programme start="20201108225500 -0600" stop="20201108235000 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">Monstruos de la antigüedad Pie Grande</title>
+  </programme>
+  <programme start="20201108235000 -0600" stop="20201109004500 -0600" channel="Canal History 2 (Argentina)">
+    <title lang="es">JFK desclasificado rastreando al asesino</title>
+  </programme>
+  <programme start="20201108010000 -0600" stop="20201108023000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+  <programme start="20201108023000 -0600" stop="20201108042000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Espanyol-Lugo</title>
+  </programme>
+  <programme start="20201108042000 -0600" stop="20201108061000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Barcelona-Betis</title>
+  </programme>
+  <programme start="20201108061000 -0600" stop="20201108064000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">LaLiga ZAP</title>
+  </programme>
+  <programme start="20201108064000 -0600" stop="20201108083000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">At. Madrid-Cádiz</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108090000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">LaLiga ZAP</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108120000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Getafe-Villarreal</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108121500 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+  <programme start="20201108121500 -0600" stop="20201108141500 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Real Sociedad-Granada</title>
+  </programme>
+  <programme start="20201108141500 -0600" stop="20201108143000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108163000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Valladolid-Athletic</title>
+  </programme>
+  <programme start="20201108163000 -0600" stop="20201108170000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">La casa del fútbol</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108190000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Valencia-Real Madrid</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108202500 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">El Partidazo de Movistar</title>
+  </programme>
+  <programme start="20201108202500 -0600" stop="20201108203500 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Resúmenes LaLiga SmartBank</title>
+  </programme>
+  <programme start="20201108203500 -0600" stop="20201108204500 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Resúmenes LaLiga SmartBank</title>
+  </programme>
+  <programme start="20201108204500 -0600" stop="20201108210000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Resúmenes LaLiga Santander</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108225000 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Sabadell-Málaga</title>
+  </programme>
+  <programme start="20201108225000 -0600" stop="20201108234500 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Resumen LaLiga</title>
+  </programme>
+  <programme start="20201108234500 -0600" stop="20201109013500 -0600" channel="Canal Movistar LaLiga">
+    <title lang="es">Rayo-Almería</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108080000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">Ñandejara ñee</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108100000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">Marandu Ko´emboyve</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108110000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">Rural TV</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108120000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">Televisión cooperativa</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108130000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">Tradición y cultura</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">Catecismo de Adultos</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108150000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">La voz agropecuaria</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108170000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">La Leyenda de Bruce Lee</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108190000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">NPY Folklore</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108203000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">Misa de Caacupé</title>
+  </programme>
+  <programme start="20201108203000 -0600" stop="20201108223000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">Bajo la lupa</title>
+  </programme>
+  <programme start="20201108223000 -0600" stop="20201108230000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">Enfoque PY</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109000000 -0600" channel="Canal Noticias PY (Paraguay)">
+    <title lang="es">Id famosos</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108070000 -0600" channel="Canal Paravisión">
+    <title lang="es">Elmo's World</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108080000 -0600" channel="Canal Paravisión">
+    <title lang="es">Spiderman</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108083000 -0600" channel="Canal Paravisión">
+    <title lang="es">X Men</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108084500 -0600" channel="Canal Paravisión">
+    <title lang="es">Super hero</title>
+  </programme>
+  <programme start="20201108084500 -0600" stop="20201108090000 -0600" channel="Canal Paravisión">
+    <title lang="es">Jason y los Héroes del Monte Olimpo</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="Canal Paravisión">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108103000 -0600" channel="Canal Paravisión">
+    <title lang="es">Wolverine y los X-Men</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108110000 -0600" channel="Canal Paravisión">
+    <title lang="es">Marvel ultimate spiderman</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108120000 -0600" channel="Canal Paravisión">
+    <title lang="es">Hombre al agua</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108130000 -0600" channel="Canal Paravisión">
+    <title lang="es">Duelo de titanes</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108133000 -0600" channel="Canal Paravisión">
+    <title lang="es">XRC Extreme Reality</title>
+  </programme>
+  <programme start="20201108133000 -0600" stop="20201108140000 -0600" channel="Canal Paravisión">
+    <title lang="es">XRC Extreme Reality</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108150000 -0600" channel="Canal Paravisión">
+    <title lang="es">Zoo</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108160000 -0600" channel="Canal Paravisión">
+    <title lang="es">Duelo de titanes</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108170000 -0600" channel="Canal Paravisión">
+    <title lang="es">Grimm</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108180000 -0600" channel="Canal Paravisión">
+    <title lang="es">Justicia verdadera</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108190000 -0600" channel="Canal Paravisión">
+    <title lang="es">Scorpion</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108200000 -0600" channel="Canal Paravisión">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108210000 -0600" channel="Canal Paravisión">
+    <title lang="es">Números</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="Canal Paravisión">
+    <title lang="es">The Borgias</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201109053000 -0600" channel="Canal Paravisión">
+    <title lang="es">Cine Paravisíon</title>
+  </programme>
+  <programme start="20201108010000 -0600" stop="20201108020000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">El otro lado del paraíso</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108030000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">El otro lado del paraíso</title>
+  </programme>
+  <programme start="20201108030000 -0600" stop="20201108040000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Rosa Negra</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108050000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Rosa Negra</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108060000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Rosa Negra</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108070000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Rosa Negra</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108080000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Rosa Negra</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108090000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">El otro lado del paraíso</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">El otro lado del paraíso</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108110000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">El otro lado del paraíso</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108120000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">El otro lado del paraíso</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108130000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">El otro lado del paraíso</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Promesa a Dios</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108150000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Promesa a Dios</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108160000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Promesa a Dios</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108170000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Promesa a Dios</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108180000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Promesa a Dios</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108190000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Rosa Negra</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108200000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Rosa Negra</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108210000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Rosa Negra</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108220000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Rosa Negra</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108230000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Rosa Negra</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109000000 -0600" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Lo que la Vida me Robó</title>
+  </programme>
+  <programme start="20201108003000 -0600" stop="20201108010000 -0600" channel="Canal RT en Español">
+    <title lang="es">La lista de Erick</title>
+  </programme>
+  <programme start="20201108010000 -0600" stop="20201108013000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201108013000 -0600" stop="20201108020000 -0600" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108023000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201108023000 -0600" stop="20201108030000 -0600" channel="Canal RT en Español">
+    <title lang="es">La lista de Erick</title>
+  </programme>
+  <programme start="20201108030000 -0600" stop="20201108033000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201108033000 -0600" stop="20201108040000 -0600" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108043000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201108043000 -0600" stop="20201108050000 -0600" channel="Canal RT en Español">
+    <title lang="es">La lista de Erick</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108053000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201108053000 -0600" stop="20201108060000 -0600" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108063000 -0600" channel="Canal RT en Español">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20201108063000 -0600" stop="20201108070000 -0600" channel="Canal RT en Español">
+    <title lang="es">La lista de Erick</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108073000 -0600" channel="Canal RT en Español">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20201108073000 -0600" stop="20201108080000 -0600" channel="Canal RT en Español">
+    <title lang="es">Keiser Report</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108083000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (I)</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108090000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (II)</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108093000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (III)</title>
+  </programme>
+  <programme start="20201108093000 -0600" stop="20201108100000 -0600" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108103000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (I)</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108110000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (II)</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108113000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201108113000 -0600" stop="20201108120000 -0600" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108123000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (I)</title>
+  </programme>
+  <programme start="20201108123000 -0600" stop="20201108130000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (II)</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108133000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201108133000 -0600" stop="20201108140000 -0600" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108143000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (I)</title>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108150000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (II)</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108153000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201108153000 -0600" stop="20201108160000 -0600" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108163000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (I)</title>
+  </programme>
+  <programme start="20201108163000 -0600" stop="20201108170000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (II)</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108173000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (III)</title>
+  </programme>
+  <programme start="20201108173000 -0600" stop="20201108180000 -0600" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108183000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (I)</title>
+  </programme>
+  <programme start="20201108183000 -0600" stop="20201108190000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (II)</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108193000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201108193000 -0600" stop="20201108200000 -0600" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108203000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (I)</title>
+  </programme>
+  <programme start="20201108203000 -0600" stop="20201108210000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (II)</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108213000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201108213000 -0600" stop="20201108220000 -0600" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108223000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (I)</title>
+  </programme>
+  <programme start="20201108223000 -0600" stop="20201108230000 -0600" channel="Canal RT en Español">
+    <title lang="es">Guía de supervivencia del preso (II)</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201108233000 -0600" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
+  <programme start="20201108233000 -0600" stop="20201109000000 -0600" channel="Canal RT en Español">
+    <title lang="es">RT Especial</title>
+  </programme>
+  <programme start="20201108001500 -0600" stop="20201108010000 -0600" channel="Canal SNT (Paraguay)">
+    <title lang="es">Hawai 5.0</title>
+  </programme>
+  <programme start="20201108010000 -0600" stop="20201108020000 -0600" channel="Canal SNT (Paraguay)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108040000 -0600" channel="Canal SNT (Paraguay)">
+    <title lang="es">C.S.I. Nueva York</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108070000 -0600" channel="Canal SNT (Paraguay)">
+    <title lang="es">Comando Élite</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108081000 -0600" channel="Canal SNT (Paraguay)">
+    <title lang="es">Misa de Caacupé</title>
+  </programme>
+  <programme start="20201108081000 -0600" stop="20201108101500 -0600" channel="Canal SNT (Paraguay)">
+    <title lang="es">Pulso Urbano</title>
+  </programme>
+  <programme start="20201108101500 -0600" stop="20201108110500 -0600" channel="Canal SNT (Paraguay)">
+    <title lang="es">Érase una vez</title>
+  </programme>
+  <programme start="20201108110500 -0600" stop="20201108180000 -0600" channel="Canal SNT (Paraguay)">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108210000 -0600" channel="Canal SNT (Paraguay)">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108215500 -0600" channel="Canal SNT (Paraguay)">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20201108215500 -0600" stop="20201109001000 -0600" channel="Canal SNT (Paraguay)">
+    <title lang="es">Senete</title>
+  </programme>
+  <programme start="20201108000400 -0600" stop="20201108015100 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Lucy</title>
+  </programme>
+  <programme start="20201108015100 -0600" stop="20201108033100 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">El paso del diablo</title>
+  </programme>
+  <programme start="20201108033100 -0600" stop="20201108045400 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">No Good Deed</title>
+  </programme>
+  <programme start="20201108045400 -0600" stop="20201108052900 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20201108052900 -0600" stop="20201108053900 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20201108053900 -0600" stop="20201108055000 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20201108055000 -0600" stop="20201108060000 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108060900 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20201108060900 -0600" stop="20201108083000 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Momento crítico</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108104400 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">El protector</title>
+  </programme>
+  <programme start="20201108104400 -0600" stop="20201108130500 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Romeo Debe Morir</title>
+  </programme>
+  <programme start="20201108130500 -0600" stop="20201108151100 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">De la cuna a la tumba</title>
+  </programme>
+  <programme start="20201108151100 -0600" stop="20201108152000 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Proyecto Tierras</title>
+  </programme>
+  <programme start="20201108152000 -0600" stop="20201108172700 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Dos Armas Letales</title>
+  </programme>
+  <programme start="20201108172700 -0600" stop="20201108194500 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Triple X</title>
+  </programme>
+  <programme start="20201108194500 -0600" stop="20201108195700 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Proyecto Tierras</title>
+  </programme>
+  <programme start="20201108195700 -0600" stop="20201108215300 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">XXX 2 Estado de emergencia</title>
+  </programme>
+  <programme start="20201108215300 -0600" stop="20201108220000 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Proyecto Tierras</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108234700 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">Lucy</title>
+  </programme>
+  <programme start="20201108234700 -0600" stop="20201109014500 -0600" channel="Canal Space (Argentina)">
+    <title lang="es">John Wick</title>
+  </programme>
+  <programme start="20201108010000 -0600" stop="20201108060000 -0600" channel="Canal Telefuturo">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108070000 -0600" channel="Canal Telefuturo">
+    <title lang="es">Musical de terere</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108081500 -0600" channel="Canal Telefuturo">
+    <title lang="es">Misa de Caacupé</title>
+  </programme>
+  <programme start="20201108081500 -0600" stop="20201108110000 -0600" channel="Canal Telefuturo">
+    <title lang="es">La Lupa</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108130000 -0600" channel="Canal Telefuturo">
+    <title lang="es">La cocina del Finde</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108142000 -0600" channel="Canal Telefuturo">
+    <title lang="es">Dragon ball super</title>
+  </programme>
+  <programme start="20201108142000 -0600" stop="20201108190000 -0600" channel="Canal Telefuturo">
+    <title lang="es">Dragon Ball Z</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108193000 -0600" channel="Canal Telefuturo">
+    <title lang="es">Telebingo</title>
+  </programme>
+  <programme start="20201108193000 -0600" stop="20201108214500 -0600" channel="Canal Telefuturo">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20201108214500 -0600" stop="20201108230000 -0600" channel="Canal Telefuturo">
+    <title lang="es">Telefutbol</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109000000 -0600" channel="Canal Telefuturo">
+    <title lang="es">Fútbol a lo grande</title>
+  </programme>
+  <programme start="20201108010000 -0600" stop="20201108023000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">El puto inolvidable: Vida de Carlos Jáuregui</title>
+  </programme>
+  <programme start="20201108023000 -0600" stop="20201108030000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Documentales en la Televisión Pública Argentina</title>
+  </programme>
+  <programme start="20201108030000 -0600" stop="20201108050000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">#SomosArgentina</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108060000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Publicados</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108063000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Pampero TV</title>
+  </programme>
+  <programme start="20201108063000 -0600" stop="20201108070000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">La Patria Deportiva</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108080000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Paka Paka</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108090000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">El Cálamo y su mensaje</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108095000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">La santa misa</title>
+  </programme>
+  <programme start="20201108095000 -0600" stop="20201108100000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Angelus</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108110000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Shalom AMIA</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108143000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Automovilismo Turismo Carretera</title>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108160000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Cocineros argentinos</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108170000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Que Vuelvan los Potreros</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108180000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">#CamisetaArgentina</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108190000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Documentales en la Televisión Pública Argentina</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108200000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">El festival del bien público</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108210000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">TPA noticias</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108213000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Ser esencial</title>
+  </programme>
+  <programme start="20201108213000 -0600" stop="20201108220000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Dos solos</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201108223000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Lo mejor de Festival País '20</title>
+  </programme>
+  <programme start="20201108223000 -0600" stop="20201108230000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Lo mejor de Festival País '20</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109000000 -0600" channel="Canal Televisión Pública (Argentina)">
+    <title lang="es">Documentales en la Televisión Pública Argentina</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108040000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">I Am Legend</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108050000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108060000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108070000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108080000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108090000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108110000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108120000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201108120000 -0600" stop="20201108130000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108164500 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">Mad Max: Fury Road</title>
+  </programme>
+  <programme start="20201108164500 -0600" stop="20201108184500 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">I Am Legend</title>
+  </programme>
+  <programme start="20201108184500 -0600" stop="20201108220000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">Transformers: Revenge of the Fallen</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201109010000 -0600" channel="Canal TNT (Argentina)">
+    <title lang="es">Ready Player One</title>
+  </programme>
+  <programme start="20201108020000 -0600" stop="20201108040000 -0600" channel="Canal TNT Sports">
+    <title lang="es">Banfield vs. Godoy Cruz</title>
+  </programme>
+  <programme start="20201108040000 -0600" stop="20201108050000 -0600" channel="Canal TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108060000 -0600" channel="Canal TNT Sports">
+    <title lang="es">Historias de El Gráfico</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108080000 -0600" channel="Canal TNT Sports">
+    <title lang="es">San Lorenzo vs. Estudiantes (LP)</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108083000 -0600" channel="Canal TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108103000 -0600" channel="Canal TNT Sports">
+    <title lang="es">River vs. Rosario Central</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108110000 -0600" channel="Canal TNT Sports">
+    <title lang="es">Copa de la Liga Profesional 2020</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108130000 -0600" channel="Canal TNT Sports">
+    <title lang="es">Arsenal vs. Atlético Tucumán</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="Canal TNT Sports">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108160000 -0600" channel="Canal TNT Sports">
+    <title lang="es">Banfield vs. Godoy Cruz</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108180000 -0600" channel="Canal TNT Sports">
+    <title lang="es">San Lorenzo vs. Estudiantes (LP)</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108184500 -0600" channel="Canal TNT Sports">
+    <title lang="es">Copa de la Liga Profesional 2020</title>
+  </programme>
+  <programme start="20201108184500 -0600" stop="20201108210000 -0600" channel="Canal TNT Sports">
+    <title lang="es">Unión (SF) vs. Racing</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108230000 -0600" channel="Canal TNT Sports">
+    <title lang="es">River vs. Rosario Central</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201108233000 -0600" channel="Canal TNT Sports">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20201108233000 -0600" stop="20201109013000 -0600" channel="Canal TNT Sports">
+    <title lang="es">Newell's vs. Boca</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108080000 -0600" channel="Canal Unicanal">
+    <title lang="es">La Hora de las Compras</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108090000 -0600" channel="Canal Unicanal">
+    <title lang="es">Misa de los Capuchinos</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="Canal Unicanal">
+    <title lang="es">Espacios y Tendencias</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108103000 -0600" channel="Canal Unicanal">
+    <title lang="es">Máquinas y Construcciones</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108110000 -0600" channel="Canal Unicanal">
+    <title lang="es">Amigo camionero</title>
+  </programme>
+  <programme start="20201108110000 -0600" stop="20201108113000 -0600" channel="Canal Unicanal">
+    <title lang="es">Enfoque Paraguay</title>
+  </programme>
+  <programme start="20201108113000 -0600" stop="20201108130000 -0600" channel="Canal Unicanal">
+    <title lang="es">Cielo Austral</title>
+  </programme>
+  <programme start="20201108130000 -0600" stop="20201108140000 -0600" channel="Canal Unicanal">
+    <title lang="es">La Hora de las Compras</title>
+  </programme>
+  <programme start="20201108140000 -0600" stop="20201108143000 -0600" channel="Canal Unicanal">
+    <title lang="es">Productiva TV</title>
+  </programme>
+  <programme start="20201108143000 -0600" stop="20201108150000 -0600" channel="Canal Unicanal">
+    <title lang="es">Poravoty TV</title>
+  </programme>
+  <programme start="20201108150000 -0600" stop="20201108160000 -0600" channel="Canal Unicanal">
+    <title lang="es">Jóvenes Para Los Jóvenes</title>
+  </programme>
+  <programme start="20201108160000 -0600" stop="20201108170000 -0600" channel="Canal Unicanal">
+    <title lang="es">Descubriendo al país</title>
+  </programme>
+  <programme start="20201108170000 -0600" stop="20201108173000 -0600" channel="Canal Unicanal">
+    <title lang="es">Aventura Xtrema</title>
+  </programme>
+  <programme start="20201108173000 -0600" stop="20201108180000 -0600" channel="Canal Unicanal">
+    <title lang="es">A Puro Baile</title>
+  </programme>
+  <programme start="20201108180000 -0600" stop="20201108190000 -0600" channel="Canal Unicanal">
+    <title lang="es">Causa Justa</title>
+  </programme>
+  <programme start="20201108190000 -0600" stop="20201108200000 -0600" channel="Canal Unicanal">
+    <title lang="es">Libres para elegir</title>
+  </programme>
+  <programme start="20201108200000 -0600" stop="20201108210000 -0600" channel="Canal Unicanal">
+    <title lang="es">El Gran Debate</title>
+  </programme>
+  <programme start="20201108210000 -0600" stop="20201108230000 -0600" channel="Canal Unicanal">
+    <title lang="es">Cara o Cruz</title>
+  </programme>
+  <programme start="20201108230000 -0600" stop="20201109000000 -0600" channel="Canal Unicanal">
+    <title lang="es">Escena del Crimen</title>
+  </programme>
+  <programme start="20201108001100 -0600" stop="20201108010100 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Blindspot</title>
+  </programme>
+  <programme start="20201108010100 -0600" stop="20201108025800 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">El Efecto Mariposa (The Butterfly Effect)</title>
+  </programme>
+  <programme start="20201108025800 -0600" stop="20201108032000 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201108032000 -0600" stop="20201108034000 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201108034000 -0600" stop="20201108040100 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201108040100 -0600" stop="20201108042100 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201108042100 -0600" stop="20201108044400 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20201108044400 -0600" stop="20201108060000 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">The Middle</title>
+  </programme>
+  <programme start="20201108060000 -0600" stop="20201108074100 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">The Middle</title>
+  </programme>
+  <programme start="20201108074100 -0600" stop="20201108075400 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20201108075400 -0600" stop="20201108082100 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20201108082100 -0600" stop="20201108084200 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20201108084200 -0600" stop="20201108090700 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20201108090700 -0600" stop="20201108093300 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201108093300 -0600" stop="20201108095700 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201108095700 -0600" stop="20201108102400 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201108102400 -0600" stop="20201108104800 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201108104800 -0600" stop="20201108111300 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20201108111300 -0600" stop="20201108113700 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20201108113700 -0600" stop="20201108120400 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20201108120400 -0600" stop="20201108123000 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20201108123000 -0600" stop="20201108143400 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Jack El Cazagigantes</title>
+  </programme>
+  <programme start="20201108143400 -0600" stop="20201108163400 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Happy feet El pingüino</title>
+  </programme>
+  <programme start="20201108163400 -0600" stop="20201108194800 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Batman: El caballero de la noche asciende</title>
+  </programme>
+  <programme start="20201108194800 -0600" stop="20201108220000 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Kong: La Isla Calavera</title>
+  </programme>
+  <programme start="20201108220000 -0600" stop="20201109005100 -0600" channel="Canal Warner TV (Argentina)">
+    <title lang="es">Batman vs Superman: El Origen de la Justicia</title>
   </programme>
 </tv>
